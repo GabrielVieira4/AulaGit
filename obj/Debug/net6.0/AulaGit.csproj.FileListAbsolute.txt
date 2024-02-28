@@ -1,0 +1,15 @@
+C:\Aplications\AulaGit\bin\Debug\net6.0\AulaGit.exe
+C:\Aplications\AulaGit\bin\Debug\net6.0\AulaGit.deps.json
+C:\Aplications\AulaGit\bin\Debug\net6.0\AulaGit.runtimeconfig.json
+C:\Aplications\AulaGit\bin\Debug\net6.0\AulaGit.dll
+C:\Aplications\AulaGit\bin\Debug\net6.0\AulaGit.pdb
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.csproj.AssemblyReference.cache
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.AssemblyInfoInputs.cache
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.AssemblyInfo.cs
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.csproj.CoreCompileInputs.cache
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.dll
+C:\Aplications\AulaGit\obj\Debug\net6.0\refint\AulaGit.dll
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.pdb
+C:\Aplications\AulaGit\obj\Debug\net6.0\AulaGit.genruntimeconfig.cache
+C:\Aplications\AulaGit\obj\Debug\net6.0\ref\AulaGit.dll
